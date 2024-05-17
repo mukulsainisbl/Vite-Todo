@@ -1,0 +1,36 @@
+.outerbox{
+    display: inline-block;
+    text-align: center;
+    margin-left: 40%;
+}
+
+.outerbox > h4{
+    color: red;
+    font-size:25px;
+}
+.outerbox > label{
+    color:green;
+    font-size: larger;
+}
+
+.outerbox > button{
+    border: none;
+    border: 1px solid greenyellow;
+}
+
+.innerbox{
+  
+    display: inline-block;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 5%
+    
+   
+
+    
+   
+
+    
+
+}
